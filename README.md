@@ -49,18 +49,8 @@ When the mini-rocket is on the ramp, there is a small loop of wires coming out o
 
 At launch, the motor retaining ring was not properly fixed to the rocket's fuselage. When the motor fired, it moved through the entire airframe and destroyed the rocket. The full video is linked at the top of this page.
 
-## What I learned
-
-- **The motor retention is a critical joint.** It has to be checked, and ideally tested, before every launch.
-- **A fallback is not a sensor.** The IMU should have been validated on the bench before building the rest of the system around it.
-- **Modeling the full assembly in CAD pays off.** It made it possible to check the center of gravity before anything was built.
-
 ## Next steps
 
 - Redesign how the motor retaining ring is fixed to the fuselage and verify it before launch.
 - Get the IMU working, so that lift-off and apogee are detected from measured data instead of a timer.
 - Record flight data on board, so that the next flight can be analyzed afterwards.
-
-## Author
-
-Built by the help of a friend of mine, Cyprien Regis
