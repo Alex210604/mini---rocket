@@ -54,3 +54,5 @@ At launch, the motor retaining ring was not properly fixed to the rocket's fusel
 - Redesign how the motor retaining ring is fixed to the fuselage and verify it before launch.
 - Get the IMU working, so that lift-off and apogee are detected from measured data instead of a timer.
 - Record flight data on board, so that the next flight can be analyzed afterwards.
+
+This project was developed with Cyprien Regis
